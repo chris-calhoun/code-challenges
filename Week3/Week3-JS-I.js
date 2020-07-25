@@ -215,6 +215,3 @@ function getTriangleArea(base, height) {
   // code here
   return 0.5 * base * height;
 }
-
-// Testing
-console.log(returnString("Chris"));
